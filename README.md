@@ -1,8 +1,5 @@
 # MS-Statistics-Research
 This is the Non-Thesis Research I conducted in partial fulfillment of my MS Statistics &amp; Data Science Degree from the The University of Texas at El Paso
-Below is a **brief, clean, and “catchy” README-style summary** tailored to an **MS Statistics thesis repository**. It balances technical credibility with accessibility and highlights the Bayesian contribution without overwhelming the reader.
-
-
 
 ## Mandatory COVID‑19 Vaccination Statuses Across the Eight U.S. Regions
 
@@ -68,13 +65,3 @@ This work contributes to applied Bayesian statistics and public health analytics
 *   Statistically interpretable insights into vaccination disparities
 *   A reusable modeling blueprint for future studies of regional health policy outcomes
 
-***
-
-If you want, I can:
-
-*   Tighten this further into a **GitHub landing README**
-*   Make it more **policy-facing** for non-statistical audiences
-*   Add a **methods-at-a-glance box** (priors, likelihood, inference strategy)
-*   Rewrite it for inclusion in a **thesis appendix or abstract companion**
-
-Just say the word.
